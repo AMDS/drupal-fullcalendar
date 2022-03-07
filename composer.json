@@ -1,5 +1,5 @@
 {
-  "name": "AMDS/drupal-fullcalendar",
+  "name": "drupal-spider/drupal-fullcalendar",
   "description": "FullCalendar libraries for Drupal projects.",
   "type": "drupal-library",
   "keywords": ["fullcalendar", "drupal-library"],
