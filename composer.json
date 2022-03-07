@@ -1,0 +1,14 @@
+{
+  "name": "AMDS/drupal-fullcalendar",
+  "description": "FullCalendar libraries for Drupal projects.",
+  "type": "drupal-library",
+  "keywords": ["fullcalendar", "drupal-library"],
+  "homepage": "https://fullcalendar.io/",
+  "license": [
+    "MIT License"
+  ],
+  "support": {
+    "issues": "https://github.com/fullcalendar/fullcalendar/issues",
+    "source": "https://github.com/fullcalendar/fullcalendar"
+  }
+}
