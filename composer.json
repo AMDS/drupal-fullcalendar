@@ -5,7 +5,7 @@
   "keywords": ["fullcalendar", "drupal-library"],
   "homepage": "https://fullcalendar.io/",
   "license": [
-    "MIT License"
+    "MIT"
   ],
   "support": {
     "issues": "https://github.com/fullcalendar/fullcalendar/issues",
